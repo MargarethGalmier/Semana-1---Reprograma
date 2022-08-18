@@ -42,8 +42,8 @@ Here are some useful links regarding this section, keep them in mind, as they mo
 - [Moment.js](https://momentjs.com): Library to convert, validate, manipulate and display dates and times
 - [Chart.js](https://www.chartjs.org/): Library for creating charts
 - [Voca](https://vocajs.com/): Library to work with Strings
-- [mo.js](https://mojs.github.io/): Library to create amazing animations with SVG.
-- [React](https://reactjs.org/): Library for creating user interfaces.
+- [mo.js](https://mojs.github.io/): Library to create amazing animations with SVG
+- [React](https://reactjs.org/): Library for creating user interfaces
 
 
 **Frameworks:**
@@ -58,7 +58,7 @@ Here are some useful links regarding this section, keep them in mind, as they mo
 ## The Internet
 *What's the internet?*
 
-In simple terms, **the internet is the backbone of the web, being the technical infrastructure that makes it possible**. Having roots in US military projects in the 1960s, today the internet is a global and extra-planetary system of communication through which data can be sent and received through it.
+In simple terms, **the internet is the backbone of the web, being the technical infrastructure that makes it possible**. Having roots in US military projects in the 1960s, today the internet is a global and extra-planetary system of communication through which data can be sent and received through.
 
 **As a global network of computers responsible for transferring huge amounts of data and facilitating its processing, the internet has been constantly evolving since its beginnings.** Beyond that, the internet expanded beyond traditional communication and work, giving rise to what is now called the "internet of things". There is still some separation between the analog and digital worlds, but the fact is that this line, following an established historical trend, is slowly but surely disappearing.
 
