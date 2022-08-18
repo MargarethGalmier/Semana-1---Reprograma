@@ -5,7 +5,7 @@
 
 
 
-# Basic Concepts in Software Development Algorithms, Libraries, Frameworks and the Internet
+# Basic Concepts in Software Development: Algorithms, Libraries, Frameworks and the Internet
 
 Today software development is a relatively uncomplicated task, given the years of accumulated knowledge about it. In this brief article we try to elucidate some concepts which can be useful to satisfy the curiosity of any beginner in the area.
 
