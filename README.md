@@ -43,7 +43,7 @@ Here are some useful links regarding this section, keep them in mind, as they mo
 - [Chart.js](https://www.chartjs.org/): Library for creating charts
 - [Voca](https://vocajs.com/): Library to work with Strings
 - [mo.js](https://mojs.github.io/): Library to create amazing animations with SVG.
-- [React](https://reactjs.org/): Library for creating user interfaces. a-development-web/)
+- [React](https://reactjs.org/): Library for creating user interfaces.
 
 
 **Frameworks:**
